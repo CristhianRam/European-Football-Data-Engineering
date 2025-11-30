@@ -5,6 +5,8 @@ Project for the course: Introduction to Data Engineering.
 
 This project implements a complete Data Engineering Pipeline analyzing football statistics from Europe's Top 5 Leagues (2023-2024 Season).
 
+Dataset From: https://www.kaggle.com/datasets/kamrangayibov/football-data-european-top-5-leagues/data
+
 The primary objective was to architect a robust relational database (3NF), execute complex analytical queries, and engineer a structured migration strategy to a NoSQL (MongoDB) environment to optimize read performance for match event data.
 
 ## 🚀 Key Features
